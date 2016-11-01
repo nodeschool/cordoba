@@ -758,6 +758,7 @@ a {
   text-shadow: none;
   color: black;
   background: url("../img/cityscape.jpg") no-repeat center top;
+  background-size: cover;
 }
 
 .section-signup {
